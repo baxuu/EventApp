@@ -55,7 +55,7 @@ DB_NAME_TEST=<dbname>
 ```
 ## Testing
 
-Tests are prepared for both front-end and back-end sides. Add to
+Tests are prepared for both front-end and back-end sides.
 
 front:
 
