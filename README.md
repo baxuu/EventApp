@@ -2,7 +2,7 @@
 
 EventApp is a simple application to record upcoming events. You can save, edit or delete your events from the database.
 
-![](https://raw.githubusercontent.com/baxuu/eventApp/master/client/assets/example1.jpg)
+![](https://raw.githubusercontent.com/baxuu/eventApp/master/client/assets/example.jpg)
 
 ### Built with
 - `Node.js,`
