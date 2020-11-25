@@ -1,0 +1,12 @@
+export const appMainColor = '#4aa3b5';
+export const eventCardFontColor = '#fff';
+export const errorFontColor = '#d8000c';
+export const errorBackgroundColor = '#ffd2d2';
+export const lightBackgroundColor = '#edf6f8';
+export const lightTitleColor = '#b7dae1';
+export const bordersColor = '#ccc';
+export const toasterSuccesBackgroundColor = '#DFF2BF';
+export const toasterSuccesBorderColor = '#87be27';
+export const toasterErrorBackgroundColor = '#FFBABA';
+export const toasterSuccesColor = '#69941e';
+export const toasterErrorColor = '#d8000c';
